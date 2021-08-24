@@ -1,2 +1,2 @@
 # myRepo
-thie is readme file
+this is readme file
